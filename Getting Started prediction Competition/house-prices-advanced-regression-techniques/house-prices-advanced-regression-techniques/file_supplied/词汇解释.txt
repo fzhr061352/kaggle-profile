@@ -1,0 +1,84 @@
+Id	
+MSSubClass  住宅类型:	
+MSZoning  销售分类:C/FV/RH/RL/RM
+LotFrontage  地段临街距离：                      
+LotArea  地块面积：
+Street  道路通道的类型：Grvl碎石/Pave铺装	
+Alley  小路的类型：Grvl/Pave/NA
+LotShape  地段形状：Reg/IR1/IR2/IR3 
+LandContour  平坦度：Lvl/Bnk/HLS/Low 
+Utilities  可用的市政： AllPub/NoSeWa	
+LotConfig  地块格局： Inside/Corner	/CulDSac/ FR2/FR3
+LandSlope  土地坡度：Gtl/Mod/Sev	
+Neighborhood  实际位置：
+Condition1  :Artery/Feedr/Norm/RRAn/RRAe/PosN
+Condition2  :Feedr/Norm/RRNn/RRAn/PosA
+BldgType 住宅类型:1Fam/2FmCon/Duplex/Twnhs/TwnhsE
+HouseStyle 住宅的风格:1Story/1.5Fin/1.5Unf/2Story/2.5Fin/2.5Unf/SFoyer/SLvl	
+OverallQual	评价房屋的整体材料和完成情况：3~8 10
+OverallCond	：3~9
+YearBuilt	
+YearRemodAdd 改建日期：	
+RoofStyle ：Gable/Gambrel/Hip/Mansard	
+RoofMatl 屋顶材料：CompShg/WdShngl	
+Exterior1st	外饰材料：AsbShng/BrkFace/CmentBd/HdBoard/MetalSd/Plywood/Stucco/VinylSd/Wd Sdng/Wd Shng
+Exterior2nd 外饰材料：AsbShng/Brk/Cmn/CmentBd/HdBoard/ImStucc/MetalSd/Plywood/Stucco/VinylSd/Wd Sdng/Wd Shng
+MasVnrType  砌体单板类型：BrkCmn/BrkFace/None/Stone		
+MasVnrArea	砌体单板面积：
+ExterQual 评估外部材料的质量：Ex/Gd/TA	
+ExterCond 评估外部材料的现状：Ex/Fa/Gd/TA	
+Foundation 基础类型：BrkTil/CBlock/PConc/Stone		
+BsmtQual ：Fa/Gd/TA	
+BsmtCond ：Fa/Gd/TA	
+BsmtExposure 地下室暴露：Av/Gd/Mn/No	
+BsmtFinType1 ：ALQ/BLQ/GLQ/LwQ/Rec/Unf	
+BsmtFinSF1 ：	
+BsmtFinType2 ：ALQ/BLQ/LwQ/NA/Rec/Unf	
+BsmtFinSF2	
+BsmtUnfSF 地下室未完成的面积	
+TotalBsmtSF 地下室总面积：	
+Heating	：GasA/GasW
+HeatingQC ：Ex/Fa/Gd/TA	
+CentralAir 中央空调：Y/N	
+Electrical ：FuseA/FuseF/FuseP/SBrkr	
+1stFlrSF	
+2ndFlrSF	
+LowQualFinSF 低质量完成的面积：	
+GrLivArea 地面以上（地面）居住面积：	
+BsmtFullBath ：0~2	
+BsmtHalfBath 地下室半浴：0~1	 
+FullBath ：0~3	
+HalfBath 半浴：0~2
+BedroomAbvGr ：0~6	
+KitchenAbvGr : 1~2
+KitchenQual	:Ex/Fa/Gd/TA
+TotRmsAbvGrd 总等级以上的房间：3~12
+Functional	：Maj1/Maj2/Min1/Min2/Mod/Typ
+Fireplaces	：0~2
+FireplaceQu	：Fa/Gd/NA/Po/TA
+GarageType	车库类型：2Types/Attchd附属/Basment地下室/BuiltIn内建/CarPort车棚/Detchd分离的
+GarageYrBlt		：1900~2009
+GarageFinish	：Fin/RFn整修/Unf
+GarageCars	：1~4
+GarageArea	：
+GarageQual	车库质量：Ex/Fa/Gd/TA
+GarageCond	车库条件：Ex/Fa/Gd/NA/Po/TA
+PavedDrive	是否铺车道：
+WoodDeckSF	木夹板去面积：
+OpenPorchSF	开放走廊面积：
+EnclosedPorch	封闭门廊面积：
+3SsnPorch	三季门廊面积：
+ScreenPorch	玻璃门廊面积：
+PoolArea	:均为0
+PoolQC	泳池品质保证：	Ex/Fa/Gd/NA
+Fence 篱笆：GdPrv隐蔽花园/GdWo花园世界/MnPrv迷你/MnWw/NA
+MiscFeature	杂项特征：Gar2第二车库（如果没有在车库部分描述）/NA/Othr/Shed棚/TenC网球场
+MiscVal	杂项费用：
+MoSold	: 1~12
+YrSold	：2006~2010
+SaleType：COD契约/遗产/Con合同15％定期付款/ConLD低合约首付/ConLI低合约利息/ConLw合同低首付和低利息/CWD保修契约 - 现金/New/Oth/WD	保修契约 - 传统
+SaleCondition:Abnorml异常的/AdjLand相邻土地购买/Alloca分配的/Family/Normal/Partial部分的	
+SalePrice
+
+
+单词可查询：https://ww2.amstat.org/publications/jse/v19n3/decock/datadocumentation.txt
